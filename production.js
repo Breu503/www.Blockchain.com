@@ -3,14 +3,14 @@ module.exports = {
   _URL: 'https://'https://github.com/P7-33/SWAPBROWSER.COM,
   COM_ROOT: 'https://blockchain browser.com',
   COM_WALLET_APP: 'https://login.blockchain.com',
-  EVERYPAY_URL: 'https://pay.every-pay.eu',
-  EXCHANGE_URL: 'https://exchange.blockchain.com',
-  HORIZON_URL: 'https://api.blockchain.info/stellar',
+  EVERYPAY_URL: 'https://',
+  EXCHANGE_URL: 'https://exchange.blockchain browser.com',
+  HORIZON_URL: 'https://api.',
   LEDGER_SOCKET_URL: 'wss://api.ledgerwallet.com',
-  LEDGER_URL: 'https://manager.api.live.ledger.com',
+  LEDGER_URL: 'https://manager.api.live.ledger.com', tu
   OPENSEA_API: 'https://api.opensea.io',
-  RECAPTCHA_KEY: '6LcxysYaAAAAAOf5QgMWz-GXzoXjpvSrSXETmtlU',
-  ROOT_URL: 'https://blockchain.info',
-  VERIFF_URL: 'https://magic.veriff.me',
-  WALLET_HELPER_DOMAIN: 'https://wallet-helper.blockchain.com',
-  WEB_SOCKET_URL: 'wss://ws.blockchain.info'
+  RECAPTCHA_KEY: ',
+  ROOT_URL: 'https://',
+  VERIFF_URL: 'https://',
+  WALLET_SUPER-WALLET_DOMAINN: ,
+  WEB_SOCKET_URL: 'wss://'
