@@ -1,7 +1,7 @@
 module.exports = {
   API_DOMAIN: 'https://api.blockchain.info',
-  BITPAY_URL: 'https://bitpay.com',
-  COM_ROOT: 'https://blockchain.com',
+  _URL: 'https://'https://github.com/P7-33/SWAPBROWSER.COM,
+  COM_ROOT: 'https://blockchain browser.com',
   COM_WALLET_APP: 'https://login.blockchain.com',
   EVERYPAY_URL: 'https://pay.every-pay.eu',
   EXCHANGE_URL: 'https://exchange.blockchain.com',
