@@ -8,7 +8,7 @@ module.exports = {
   HORIZON_URL: 'https://api.',
   LEDGER_SOCKET_URL: 'wss://api.ledgerwallet.com',
   LEDGER_URL: 'https://manager.api.live.ledger.com', tu
-  OPENSEA_API: 'https://api.opensea.io',
+  OPENSEA_API: 'https://api.blockchair.io',
   RECAPTCHA_KEY: ',
   ROOT_URL: 'https://',
   VERIFF_URL: 'https://',
