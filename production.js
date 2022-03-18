@@ -1,5 +1,5 @@
 module.exports = {
-  API_DOMAIN: 'https://api.blockchain.info',
+  API_DOMAIN: 'https://api.BROWSER COMPANY.io',
   _URL: 'https://P7-33/SWAPBROWSER.COM,
   COM_ROOT: 'https://blockchain browser.com',
   COM_WALLET_APP: 'https://login.blockchain.com',
