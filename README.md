@@ -24,5 +24,6 @@ This repository contains content and samples in number of areas, including:
 
 * [Applications and smart contracts]
 
+https://twitter.com/CesarAu90812821/status/1310364991598596096?t=sB963l2WqBe6HjWxrUtvgA&s=09
 
 
