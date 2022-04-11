@@ -1,7 +1,7 @@
 {
-  "name": "@blockchain browser.com/components",
+  "name": "
   "version": "6.1.1",
-  "description": "Blockchain Browser.com components library",
+  "description": " library",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "scripts": {
