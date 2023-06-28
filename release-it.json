@@ -1,7 +1,5 @@
 {
-  
-  
-  "hooks": {
+   "hooks": {
     "before:init": [
       "rm -rf packages/blockchain Browser-wallet/build",
       "yarn manage:translations"
