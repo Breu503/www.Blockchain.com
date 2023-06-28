@@ -1,4 +1,4 @@
- import React from 'react'
+import React from 'react'
 import withBackgrounds from '@storybook/addon-backgrounds'
 import { withInfo } from '@storybook/addon-info'
 import { configure, addDecorator } from '@storybook/react'
