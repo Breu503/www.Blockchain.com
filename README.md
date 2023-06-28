@@ -24,6 +24,6 @@ This repository contains content and samples in number of areas, including:
 
 * [Applications and smart contracts]*
 
-https://github.com/GIMICI/https-www.Blockchain-Matrix.com.wiki.git
+https://github.com/GIMICI/https-www.Blockchain-GIMICI.com.wiki.git
 
 
