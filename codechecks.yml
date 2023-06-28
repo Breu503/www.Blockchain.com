@@ -1,4 +1,4 @@
- checks:
+checks:
   - name: typecov
     options:
       atLeast: 80
