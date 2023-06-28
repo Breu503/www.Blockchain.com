@@ -1,5 +1,4 @@
- "processors": ["stylelint-processor-styled-components"],
-  "extends": [
+ "processors": ["stylelint-processor-styled-components"], "extends": [
     "stylelint-config-recommended",
     "stylelint-config-standard",
     "stylelint-config-styled-components"
@@ -8,7 +7,5 @@
     "declaration-colon-newline-after": null,
     "font-family-no-missing-generic-family-keyword": null,
     "value-list-max-empty-lines": null
-  }
+  [
 }
-© 2022 GitHub, Inc.
-Terms
