@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "main-BITCOIN-BROWSER" ]
   pull_request:
-    branches: [ "main-BITCOIN-BROWSER" ]
+    branches: [ "main-GIMICI" ]
 
 jobs:
   build:
